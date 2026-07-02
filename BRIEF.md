@@ -29,62 +29,76 @@ document to build the full site from in Claude Code.
 
 ## Brand voice
 
-**Corpus strength: thin** — treat this profile as directional only; lean on the Audience & positioning above rather than forcing thin voice signal into every line.
+**Corpus strength: moderate**
+
+Note on the corpus: The onboarding text answers ("a", "asdasd", etc.) are placeholder junk and contain zero usable content. The entire profile below is drawn from the two spoken pieces — a guided morning meditation and a talk on meditation practice. That's rich, distinctive spoken material, but it's all in "teaching/guiding" mode; there's no first-person material about the practitioner's own story, business, or casual voice. Hence: moderate, not strong. Treat the profile as reliable for guided/educational copy, less certain for bio or conversational website sections.
+
+---
 
 # Brand-Voice Profile
 
-**Caveat on corpus quality:** The written onboarding answers in this corpus are non-content ("a", "asdasd", etc.) and provide zero usable signal. The entire profile below rests on a single piece of spoken material: one guided meditation transcript. That gives us a clear read on this person's *performative / meditation-leading voice*, but tells us almost nothing about how they'd talk about their business, their services, their pricing, their story, or their clients. Treat everything here as provisional. I'd strongly recommend collecting more material — especially the client speaking conversationally about who they help and why — before writing substantive website copy.
-
----
-
 ## 1. Tone
-Warm, serene, uplifting, spiritually affirming, gently ceremonial.
+Warm, serene, encouraging, reverent, quietly authoritative.
 
 ## 2. Vocabulary & phrasing
-**Words/phrases they actually use:**
-- "dear friend"
-- "cleansing breath," "inhale / exhale"
-- "radiant sun," "inner light," "warmth and light"
+**Words/phrases they actually use repeatedly:**
+- "practice" (a central, recurring term)
+- "meditation," "yoga," "breath," "breath work"
+- "the mind" / "the world"
+- "empowerment," "self empowerment," "our own power," "capacity"
 - "gratitude," "abundance," "joy," "peace," "love"
-- "renewed," "empowered," "cleansed"
-- "I invite you to…"
-- "in your mind's eye"
-- "Om. Peace. Peace. Peace."
+- "energy," "positive energy," "radiant"
+- Direct address: "dear friend," "I invite you," "So I hope that this was helpful"
+- "rooted in tradition," "classical teachings of yoga"
+- Sanskrit/spiritual markers used naturally: "Om," "Swami Mukundananda"
+- Conversational lead-ins when teaching: "So," "Right?", "Now," "Well," "Let's say"
 
-**Words they'd likely never use** (based on register): blunt commercial language, slang, hard-sell verbs ("buy now," "unlock," "hack," "boost"), clinical jargon. This is elevated, devotional language.
+**Words they'd likely never use:** hard-sell/marketing language ("unlock," "hack," "boost," "game-changer," "transform your life in 30 days"), clinical jargon, hype or urgency ("limited time," "don't miss out"). Their spiritual vocabulary is traditional and gentle, not trendy-wellness buzzy.
 
 ## 3. Sentence rhythm
-Flowing and unhurried, built for being spoken aloud. Lots of present-participle openings ("Sensing your breath…," "Recognizing…"). Uses deliberate sentence fragments for rhythm and pause ("And in your mind's eye…"). Repetition in threes ("I choose peace. I choose love. And I choose joy."). Conversational in address ("you," "us") but ceremonial in cadence — the opposite of punchy.
+Two distinct registers:
+- **Guiding mode** (meditation): long, flowing, hypnotic sentences with soft imperatives ("Allow your mind to gently shift..."). Present-tense, sensory, unhurried.
+- **Teaching mode** (the talk): conversational and looping, building an idea step by step through an extended metaphor, punctuated by short rhetorical questions ("Right?", "what's going to happen?"). Repetition is deliberate and rhythmic ("keep going, keep working on it, keep churning").
+
+Overall: conversational-reverent, never terse, never corporate. Comfortable with repetition for emphasis.
 
 ## 4. Values
-Inferred from emphasis: self-awareness, gratitude, intentionality ("I am the architect of my day"), inner peace, self-compassion, and interconnectedness with all beings ("offer that love and compassion to all other beings"). A belief that mindset attracts positive experience ("abundance that flows effortlessly").
+- **Consistent practice over quick results** — the whole milk-to-butter story argues for methodical, repeated effort.
+- **Self-empowerment, not escapism** — explicit: "it's not that we're trying to ignore the world," practice makes you "even more effective" in it.
+- **Grounding in tradition** — "rooted in tradition," "classical teachings of yoga," named teachers.
+- **Wholeness/integration** — meditation supported by postures, breath work, and diet as one path.
+- **Gratitude, compassion, and shared connection** — compassion "toward yourself" extended to "all other beings."
+- **Accessibility & warmth** — invites rather than instructs; "dear friend," "I hope this was helpful and inspiring."
 
 ## 5. Do / Don't
 **Do:**
-- Address the reader directly and warmly ("dear friend," "you").
-- Use invitational language ("I invite you to…") rather than commands.
-- Lean on light/sun/breath/river imagery already present in their voice.
-- Use gentle threefold repetition for rhythm.
+- Address the reader warmly and directly ("dear friend," "I invite you").
+- Use gentle invitational phrasing over commands.
+- Frame meditation as building strength and capacity, not as retreat from life.
+- Let sentences breathe; allow rhythmic repetition.
+- Ground claims in tradition and classical yoga teaching.
+- Keep spiritual vocabulary sincere and traditional.
 
 **Don't:**
-- Use aggressive marketing verbs or urgency tactics.
-- Write clipped, corporate, or overly casual copy.
-- Invent biographical or service details — the corpus contains none.
-- Overuse the meditation cadence for practical pages (booking, contact); it fits inspiration/about copy, not logistics.
+- Use marketing hype, urgency, or "hack/boost/unlock" language.
+- Make it clinical or overly brief.
+- Promise fast, effortless transformation — his whole message is about patient practice.
+- Invent a casual or jokey personality; the corpus doesn't support it.
+- Strip out the spiritual framing to sound "neutral."
 
-## 6. Quote bank (verbatim)
-- "Good morning, dear friend."
-- "Each inhale carries new energy and possibility."
-- "I am the architect of my day."
-- "Today, I choose peace. I choose love. And I choose joy."
-- "An attitude of gratitude opens the door to abundance and joy."
-- "I am open and receptive to the abundance that flows effortlessly into my life."
-- "Carry this sense of empowerment and inner light with you as you step into your day."
-- "Om. Peace. Peace. Peace."
+## 6. Quote bank (verbatim — use exactly)
+- "I am the architect of my day. Today, I choose peace. I choose love. And I choose joy."
+- "Each inhale carries new energy and possibility. Each exhale carries away any tension lingering in the body and mind."
+- "an attitude of gratitude opens the door to abundance and joy"
+- "carry this sense of empowerment and inner light with you as you step into your day"
+- "the path of yoga, the path of meditation is is very much about self empowerment"
+- "it's not that we're trying to ignore the world in any way"
+- "if we have an untrained mind, then when we go out into the world, we are affected in every way"
+- "we build the capacity to then move out into the world and be even more effective"
+- "picture a radiant sun rising within your heart"
+- "offer that love and compassion to all other beings"
 
----
-
-**Recommended next step:** Gather 200+ words of the client speaking or writing *about their practice* — who they serve, what a session feels like, why they do this work. The current material can voice inspirational/meditation content authentically, but not the informational backbone of a website.
+*(Note: a couple of these have been trimmed to clean sentence boundaries but not reworded. Verify against source before publishing if exact fidelity is critical.)*
 
 ## Offerings
 
