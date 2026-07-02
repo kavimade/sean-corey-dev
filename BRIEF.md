@@ -21,11 +21,11 @@ document to build the full site from in Claude Code.
 
 **How a friend would describe it:** adasd
 
-**Positioning:** A calming, hands-on wellness practice offering restorative bodywork and personalized care in an unhurried, deeply human setting. Premium yet approachable, rooted in touch and presence.
+**Positioning:** A tradition-rooted meditation and yoga guide helping people build inner steadiness through consistent, gentle practice — presence that makes you more effective in the world, not removed from it.
 
-**Audience insight:** Serves people carrying tension and depletion who need to feel genuinely seen, safe, and cared for — not processed. They want warmth and expertise in equal measure, and permission to slow down.
+**Audience insight:** Serves people seeking calm and self-empowerment through classical meditation and breath work; they need to feel invited and safe, reassured that practice is patient and grounding rather than a quick fix or performance.
 
-**Tone:** warm, grounded, calming, sophisticated
+**Tone:** warm, serene, reverent, encouraging, grounded
 
 ## Brand voice
 
@@ -120,23 +120,24 @@ asasd
 
 - Home
 - About
-- Services
+- Practice
+- Offerings
 - Testimonials
 - Contact
 
 ## Design system
 
-- **Sage** `#8E9A78` — primary
-- **Soft Mauve** `#C9B8C4` — accent
-- **Bone** `#F5F3EF` — background
-- **Warm Sand** `#EAE3D8` — surface
-- **Warm Charcoal** `#3A3632` — text
+- **Sage** `#8A9A7B` — primary
+- **Lavender-Grey** `#CBC3D2` — accent
+- **Cream** `#F4F1EC` — background
+- **Bone** `#EAE4DA` — surface
+- **Bark** `#4A453F` — text
 
-**Color direction (notes):** A warm-neutral field of Bone (#F5F3EF) and Warm Sand surface (#EAE3D8) lets one Sage (#8E9A78) accent carry all emphasis, with a soft Mauve (#C9B8C4) secondary note and Warm Charcoal (#3A3632) text — restrained and soothing per the primary reference.
+**Color direction (notes):** Warm withheld palette led by Cream (#F4F1EC) as background with Bone (#EAE4DA) surfaces, a calm Sage (#8A9A7B) primary for CTAs, a soft Lavender-Grey (#CBC3D2) accent for secondary moments, and warm neutral Bark (#4A453F) text — soothing, traditional, never clinical.
 
 **Typography:** Display — Fraunces (italic available); Body — Instrument Sans. Self-hosted in the approved hero as `@font-face` — carry the same font files into the new site (never load from Google Fonts at runtime; download once and self-host, per house convention).
 
-**Layout notes:** Committed to the juniper archetype: thin sub-60-char utility bar, centered serif wordmark with flanking nav plus a smaller nav CTA, and an asymmetric hero with a large photo layered under a smaller overlapping inset on the left against a right-side text block led by a letter-spaced caps eyebrow. A single sage square button carries all emphasis; a floating SVG botanical line drifts into the negative space as the reference's signature connective texture.
+**Layout notes:** Committed to juniper's asymmetric hero: a left photo cluster (one arched primary image with a smaller square inset overlapping its lower corner for depth) balanced by a right-aligned serif headline with an all-caps eyebrow, all floating in cream with color withheld. Added the thin top utility bar and INQUIRE-style nav CTA borrowed from the Soft Feminine Therapy reference.
 
 **Spacing base unit:** 8px
 
@@ -144,14 +145,14 @@ asasd
 
 ## Design teardown (the reference this hero was built from)
 
-LAYOUT & GRID: The primary reference (Light Textured Coach 'juniper') runs a centered ~1200px container with a thin full-width utility bar pinned at the very top ('SCHEDULE A FREE CONSULTATION →'), then a centered wordmark header with 4 nav links flanking it. The hero itself is an asymmetric two-zone split: a large layered photo group occupies the left ~55% (a main portrait plus a smaller overlapping inset photo bleeding off its corner), while the text block sits right ~45%, vertically centered, with a small eyebrow label ('HOLISTIC HEALTH COACHING') above a two-line serif display headline and a single soft button. Sections breathe with ~120px vertical gaps; the hero photos overlap the section boundary and a hand-drawn botanical line-art element floats into the negative space below-right. TYPE SYSTEM: Display serif ~44px, line-height ~1.15, near-zero tracking, sitting against a tiny ~11px all-caps letter-spaced (~0.18em) eyebrow. Body/subhead ~15px, line-height ~1.6. Wordmark ~28px lowercase serif. The ratio between eyebrow→body→h1 reads ~1.25. Display contrasts against body purely through weight and serif-vs-sans, never through loudness. SPACING: base unit 8px; component padding (button) ~14px/32px; generous 40–56px gaps between eyebrow/headline/subhead/CTA. Whitespace-dominant, low density. COLOR: near-white warm background (#F5F3EF), sage green accent for the CTA button (#8E9A78), soft mauve/lilac secondary (#C9B8C4 seen on the About button), warm charcoal text (#3A3632). Color is deliberately withheld — nearly everything is neutral so the single sage button carries all the emphasis. COMPONENTS: buttons are rectangular with very slight softening (~2px, effectively square), muted-fill primary, no ghost buttons in hero, no drop shadows — depth comes only from photo layering. Borders omitted almost everywhere. IMAGERY: photos cropped into soft rectangles, one large + one small overlapping inset for depth, arched photo shapes appear deeper in the page. Hand-drawn botanical vector line-art bleeds between sections as the signature texture move. WHY PREMIUM: (1) overlapping/inset photo layering instead of a flat single image, (2) restraint — one sage accent against a warm-neutral field, (3) the deliberate sophisticated serif with a tiny letter-spaced caps eyebrow. Borrowed from Soft Feminine Therapy: the sub-60-char utility bar tone and the floating organic vector shapes as connective texture.
+PRIMARY REFERENCE — 'Light Textured Coach' (juniper). LAYOUT & GRID: A 12-col feel expressed as an asymmetric two-part hero — a large photo cluster occupying the left ~55% and a right-aligned text block starting around x=58%. Container max-width ~1200px, but the hero photo bleeds to the left edge while the text respects an inner gutter, creating deliberate imbalance rather than a centered composition. Section rhythm is generous: hero band, then a ~120px breathing gap of near-empty cream before the 'Are you longing...' centered interlude, then overlapping arch-photo + text. Focal hierarchy sits on the primary portrait (arched/soft-cropped) with a small secondary inset photo overlapping its corner for depth. IMAGERY & LAYERING: Two signature moves — (1) photos are layered/overlapped (a main portrait with a smaller square inset breaking its lower-left edge) and (2) hand-drawn botanical line-art florals sit in the margins and bleed between sections, tying bands together. Arched (top-radius) photo masks recur. TYPE SYSTEM: Sophisticated serif display (~40–48px) with airy line-height ~1.25 and near-zero tracking, paired against a small all-caps eyebrow (~12px, letter-spacing ~0.18em) in a quiet sans. Body ~16px, line-height ~1.6. Ratio between eyebrow→display is roughly 1.25 stepped several times. Display carries elegance; sans carries calm utility. SPACING: base unit reads as 8px; component padding (buttons ~14px/28px) is tight-but-soft while section gaps are large (multiples of 8 up to ~96–120px). Whitespace-to-content is high — content floats in cream. COLOR: dominant warm off-white/cream (~#F4F1EC), sage green accent for buttons (~#8A9A7B), soft lavender-grey secondary (~#CFC7D6), warm neutral text (~#4A453F). Color is deliberately withheld — no saturated pops, letting photography and line-art breathe. COMPONENTS: buttons are soft-rounded rectangles (radius ~6–10px), solid sage with pale caps label; ghost/secondary buttons are lavender. Almost no borders or shadows — depth comes from photo layering, not elevation. WHY PREMIUM: (1) the overlapping arched-photo + inset-square composition, (2) restrained sage/lavender/cream palette with color withheld, (3) editorial serif set large with an all-caps eyebrow. Borrowed from SUPPORTING 'Soft Feminine Therapy': the thin top utility bar with an INQUIRE-style CTA and the earthy-warm restraint. I commit to juniper's asymmetric layered-photo hero as the single skeleton.
 
 ## Approved hero
 
-**Headline:** Restorative bodywork, unhurried and human
-**Subhead:** Personalized, hands-on care in a calm, unrushed space — so your body can finally let go, and you can leave feeling like yourself again.
-**CTA:** Book a session
-**Rationale:** Two-line serif display echoes juniper's ~44px sophisticated headline; the subhead stays short and scannable per the supporting references. One sage square primary CTA is the clear focal point, distinct from the smaller nav CTA above.
+**Headline:** Today, I choose peace. I choose love. And I choose joy.
+**Subhead:** A gentle, tradition-rooted meditation and breath practice — building the capacity to move out into the world and be even more effective. I invite you, dear friend, to begin.
+**CTA:** Begin Your Practice
+**Rationale:** The headline uses a verbatim line from the quote bank ('I am the architect of my day. Today, I choose peace. I choose love. And I choose joy.'), trimmed to its cleanest rhythmic clause, capturing the reverent, invitational voice. The subhead weaves two verbatim phrases ('build the capacity to then move out into the world and be even more effective' and 'I invite you, dear friend') to honor the self-empowerment-not-escapism value. CTA avoids hype and centers 'practice,' the client's central recurring term.
 
 The exact approved hero markup is in `brief.json` under `hero_html` — use it as the literal starting point for the hero component (reuse its fonts, palette, and composition).
 
