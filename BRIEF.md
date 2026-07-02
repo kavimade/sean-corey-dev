@@ -31,74 +31,77 @@ document to build the full site from in Claude Code.
 
 **Corpus strength: moderate**
 
-Note on the corpus: The onboarding text answers ("a", "asdasd", etc.) are placeholder junk and contain zero usable content. The entire profile below is drawn from the two spoken pieces — a guided morning meditation and a talk on meditation practice. That's rich, distinctive spoken material, but it's all in "teaching/guiding" mode; there's no first-person material about the practitioner's own story, business, or casual voice. Hence: moderate, not strong. Treat the profile as reliable for guided/educational copy, less certain for bio or conversational website sections.
+> Write new copy in this voice; never copy sentences or lines from this document into the site. Signature phrases (below) are the one exception — they are vocabulary, safe to use as-is. Voice evidence is proof of how the client sounds, not copy to reuse.
+
+**A note on scope:** The usable corpus is entirely spoken material — one guided meditation and one teaching talk. (The written onboarding answers were placeholder gibberish — "a", "asdasd" — and contribute nothing.) So this guide is built from two registers: *contemplative/guided* and *explanatory/teaching*. It is reliable for meditation-page copy, about/philosophy sections, and course/practice descriptions. Be more cautious with terse functional copy (pricing, booking, FAQs, calls-to-action) — there's no evidence of how this person handles brisk, transactional language, so keep those sections simple and let the warmth show only lightly.
 
 ---
 
-# Brand-Voice Profile
-
 ## 1. Tone
-Warm, serene, encouraging, reverent, quietly authoritative.
+Warm, calm, encouraging, unhurried, gently authoritative.
 
 ## 2. Vocabulary & phrasing
-**Words/phrases they actually use repeatedly:**
-- "practice" (a central, recurring term)
-- "meditation," "yoga," "breath," "breath work"
-- "the mind" / "the world"
-- "empowerment," "self empowerment," "our own power," "capacity"
-- "gratitude," "abundance," "joy," "peace," "love"
-- "energy," "positive energy," "radiant"
-- Direct address: "dear friend," "I invite you," "So I hope that this was helpful"
-- "rooted in tradition," "classical teachings of yoga"
-- Sanskrit/spiritual markers used naturally: "Om," "Swami Mukundananda"
-- Conversational lead-ins when teaching: "So," "Right?", "Now," "Well," "Let's say"
+**Words they actually use repeatedly:**
+- *practice*, *meditation*, *yoga* (as a whole path, not just postures)
+- *breath / breathing / inhale / exhale*
+- *empowerment / self-empowerment*, *power*, *capacity*, *strengthen*
+- *gratitude*, *abundance*, *joy*, *peace*, *love*, *compassion*
+- *the world* (as the counterweight to inner practice)
+- *center*, *balance*, *awareness*, *inner light*
+- *systematic / methodical*, *rooted in tradition*, *classical teachings*
+- soft connective openers: *And*, *So*, *Now*, *Right?*
 
-**Words they'd likely never use:** hard-sell/marketing language ("unlock," "hack," "boost," "game-changer," "transform your life in 30 days"), clinical jargon, hype or urgency ("limited time," "don't miss out"). Their spiritual vocabulary is traditional and gentle, not trendy-wellness buzzy.
+**Words/registers they'd never use:** clinical or hype wellness-marketing language — "hacks," "optimize," "boost," "level up," "detox," "game-changer." No urgency or scarcity language. Nothing cynical or ironic.
 
 ## 3. Sentence rhythm
-Two distinct registers:
-- **Guiding mode** (meditation): long, flowing, hypnotic sentences with soft imperatives ("Allow your mind to gently shift..."). Present-tense, sensory, unhurried.
-- **Teaching mode** (the talk): conversational and looping, building an idea step by step through an extended metaphor, punctuated by short rhetorical questions ("Right?", "what's going to happen?"). Repetition is deliberate and rhythmic ("keep going, keep working on it, keep churning").
+Two distinct gears:
+- **Guided register:** long, flowing, softly cascading sentences that layer image on image; frequent present-participle phrases ("sensing your breath," "carrying away any lingering doubts"). Occasional short declaratives for landing ("Today, I choose peace.").
+- **Teaching register:** conversational and looping, thinking-aloud; uses rhetorical questions ("what's going to happen to the milk?") and answers them ("Right?"). Repetition for emphasis ("we keep going, keep working on it, keep churning"). Builds a single extended metaphor patiently rather than making abstract claims.
 
-Overall: conversational-reverent, never terse, never corporate. Comfortable with repetition for emphasis.
+Overall: conversational, never formal, never terse. Comfortable with repetition and rhythm.
 
-## 4. Values
-- **Consistent practice over quick results** — the whole milk-to-butter story argues for methodical, repeated effort.
-- **Self-empowerment, not escapism** — explicit: "it's not that we're trying to ignore the world," practice makes you "even more effective" in it.
-- **Grounding in tradition** — "rooted in tradition," "classical teachings of yoga," named teachers.
-- **Wholeness/integration** — meditation supported by postures, breath work, and diet as one path.
-- **Gratitude, compassion, and shared connection** — compassion "toward yourself" extended to "all other beings."
-- **Accessibility & warmth** — invites rather than instructs; "dear friend," "I hope this was helpful and inspiring."
+## 4. Signature moves
+- **Grounds abstract ideas in the body and the concrete.** Turns concepts into breath, warmth, images, or an everyday physical process (milk churning into butter).
+- **Teaches through an extended metaphor or story**, then names the meaning at the end ("the milk represents the mind"). Sets up the picture before explaining it.
+- **Frames practice as empowerment, not escape.** Repeatedly clarifies that the point isn't withdrawing from the world but returning to it stronger.
+- **Uses gentle rhetorical questions and self-answers** to bring the listener along ("Right?").
+- **Invites rather than instructs.** Softens directives with "I invite you," "you might," "when you're ready."
 
-## 5. Do / Don't
-**Do:**
-- Address the reader warmly and directly ("dear friend," "I invite you").
-- Use gentle invitational phrasing over commands.
-- Frame meditation as building strength and capacity, not as retreat from life.
-- Let sentences breathe; allow rhythmic repetition.
-- Ground claims in tradition and classical yoga teaching.
-- Keep spiritual vocabulary sincere and traditional.
+## 5. Values
+- Practice as a discipline that must be *worked at* over time — patience, repetition, consistency.
+- Rootedness in tradition and classical teaching, not invention.
+- Self-empowerment and inner capacity — the belief that intelligence and power already live within the person.
+- Engagement with the world, not retreat from it.
+- Warmth toward self and others — self-compassion extended outward to "all beings."
+- Morning practice as the natural, easiest anchor.
 
-**Don't:**
-- Use marketing hype, urgency, or "hack/boost/unlock" language.
-- Make it clinical or overly brief.
-- Promise fast, effortless transformation — his whole message is about patient practice.
-- Invent a casual or jokey personality; the corpus doesn't support it.
-- Strip out the spiritual framing to sound "neutral."
+## 6. Do / Don't
+- **Do** open warmly and personally; treat the reader as a companion.
+- **Do** build ideas through a concrete image or short story before naming the takeaway.
+- **Do** use soft invitations ("you might," "when you're ready") instead of commands.
+- **Do** let sentences breathe and layer in the meditative/philosophical sections.
+- **Don't** use marketing hype, urgency, or optimization language.
+- **Don't** frame practice as an escape from life — always as a way to meet it better.
+- **Don't** over-repeat in functional copy; save the looping rhythm for reflective sections.
+- **Don't** lift the milk-and-butter story or meditation lines verbatim — rebuild the *approach*, not the sentences.
 
-## 6. Quote bank (verbatim — use exactly)
-- "I am the architect of my day. Today, I choose peace. I choose love. And I choose joy."
-- "Each inhale carries new energy and possibility. Each exhale carries away any tension lingering in the body and mind."
-- "an attitude of gratitude opens the door to abundance and joy"
-- "carry this sense of empowerment and inner light with you as you step into your day"
-- "the path of yoga, the path of meditation is is very much about self empowerment"
-- "it's not that we're trying to ignore the world in any way"
-- "if we have an untrained mind, then when we go out into the world, we are affected in every way"
-- "we build the capacity to then move out into the world and be even more effective"
-- "picture a radiant sun rising within your heart"
-- "offer that love and compassion to all other beings"
+## 7. Signature phrases
+- "dear friend" (warm direct address / greeting)
+- "be well" (sign-off)
+- "systematic practice" / "methodical practice"
+- "self-empowerment"
 
-*(Note: a couple of these have been trimmed to clean sentence boundaries but not reworded. Verify against source before publishing if exact fidelity is critical.)*
+## 8. Voice evidence
+*Illustrative only — never reuse.*
+
+- **[Guided meditation]** "Good morning, dear friend. I invite you to join me in this reflection…" — warm personal greeting + invitation, not instruction.
+- **[Guided meditation]** "Each inhale carries new energy and possibility. Each exhale carries away any tension lingering in the body and mind." — grounds abstract renewal in the breath; parallel flowing rhythm.
+- **[Guided meditation]** "Today, I choose peace. I choose love. And I choose joy." — short declaratives landing after longer flowing lines.
+- **[Guided meditation]** "be well, and talk to you soon." — signature warm sign-off (spans both registers).
+- **[Teaching]** "So just imagine for a moment having a container that's halfway filled with water and another container that's halfway filled with milk." — teaches by setting up a concrete image before the point.
+- **[Teaching]** "So if we go ahead and take that container of water and pour it into the milk, what's going to happen to the milk? Well… it's going to be diluted." — rhetorical question, then self-answer to carry the listener along.
+- **[Teaching]** "the milk represents the mind and the water represents the world." — names the meaning of the metaphor only after building it.
+- **[Teaching]** "the path of yoga, the path of meditation is very much about self empowerment. It's not that we're trying to ignore the world in any way." — reframes practice as empowerment and re-engagement, not retreat.
 
 ## Offerings
 
