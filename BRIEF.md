@@ -33,35 +33,58 @@ document to build the full site from in Claude Code.
 
 # Brand-Voice Profile
 
-**Note:** The submitted corpus contains no usable content. It consists entirely of placeholder keystrokes ("a", "asdasd", "adasd") — filler text with no real words, sentences, or first-person expression. There is nothing here to analyze.
-
-## 1. Tone
-Cannot be determined. No genuine language present.
-
-## 2. Vocabulary & phrasing
-Cannot be determined. No real words were submitted.
-
-## 3. Sentence rhythm
-Cannot be determined. No sentences were submitted.
-
-## 4. Values
-Cannot be determined. No content reveals what this client cares about.
-
-## 5. Do / Don't
-- **Do** collect a real corpus before any voice work begins.
-- **Don't** write copy based on this submission — there is no voice to match.
-
-## 6. Quote bank
-No usable quotes exist in the corpus.
+**Caveat on corpus quality:** The written onboarding answers in this corpus are non-content ("a", "asdasd", etc.) and provide zero usable signal. The entire profile below rests on a single piece of spoken material: one guided meditation transcript. That gives us a clear read on this person's *performative / meditation-leading voice*, but tells us almost nothing about how they'd talk about their business, their services, their pricing, their story, or their clients. Treat everything here as provisional. I'd strongly recommend collecting more material — especially the client speaking conversationally about who they help and why — before writing substantive website copy.
 
 ---
 
-**Recommendation:** To build an authentic brand-voice profile, please resubmit with real material. The most useful inputs are:
-- Onboarding answers written in the client's own words (aim for 200+ words).
-- A transcript of the client speaking about their practice, their clients, or why they do this work.
-- Even a few honest paragraphs about who they help and how they'd describe what they do.
+## 1. Tone
+Warm, serene, uplifting, spiritually affirming, gently ceremonial.
 
-Once real content is available, I can produce a genuine profile.
+## 2. Vocabulary & phrasing
+**Words/phrases they actually use:**
+- "dear friend"
+- "cleansing breath," "inhale / exhale"
+- "radiant sun," "inner light," "warmth and light"
+- "gratitude," "abundance," "joy," "peace," "love"
+- "renewed," "empowered," "cleansed"
+- "I invite you to…"
+- "in your mind's eye"
+- "Om. Peace. Peace. Peace."
+
+**Words they'd likely never use** (based on register): blunt commercial language, slang, hard-sell verbs ("buy now," "unlock," "hack," "boost"), clinical jargon. This is elevated, devotional language.
+
+## 3. Sentence rhythm
+Flowing and unhurried, built for being spoken aloud. Lots of present-participle openings ("Sensing your breath…," "Recognizing…"). Uses deliberate sentence fragments for rhythm and pause ("And in your mind's eye…"). Repetition in threes ("I choose peace. I choose love. And I choose joy."). Conversational in address ("you," "us") but ceremonial in cadence — the opposite of punchy.
+
+## 4. Values
+Inferred from emphasis: self-awareness, gratitude, intentionality ("I am the architect of my day"), inner peace, self-compassion, and interconnectedness with all beings ("offer that love and compassion to all other beings"). A belief that mindset attracts positive experience ("abundance that flows effortlessly").
+
+## 5. Do / Don't
+**Do:**
+- Address the reader directly and warmly ("dear friend," "you").
+- Use invitational language ("I invite you to…") rather than commands.
+- Lean on light/sun/breath/river imagery already present in their voice.
+- Use gentle threefold repetition for rhythm.
+
+**Don't:**
+- Use aggressive marketing verbs or urgency tactics.
+- Write clipped, corporate, or overly casual copy.
+- Invent biographical or service details — the corpus contains none.
+- Overuse the meditation cadence for practical pages (booking, contact); it fits inspiration/about copy, not logistics.
+
+## 6. Quote bank (verbatim)
+- "Good morning, dear friend."
+- "Each inhale carries new energy and possibility."
+- "I am the architect of my day."
+- "Today, I choose peace. I choose love. And I choose joy."
+- "An attitude of gratitude opens the door to abundance and joy."
+- "I am open and receptive to the abundance that flows effortlessly into my life."
+- "Carry this sense of empowerment and inner light with you as you step into your day."
+- "Om. Peace. Peace. Peace."
+
+---
+
+**Recommended next step:** Gather 200+ words of the client speaking or writing *about their practice* — who they serve, what a session feels like, why they do this work. The current material can voice inspirational/meditation content authentically, but not the informational backbone of a website.
 
 ## Offerings
 
